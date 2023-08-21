@@ -12,7 +12,7 @@ role: Senior Software Engineer
 organizations:
   - name: Incoming Ph.D. student
   - name: -----------------------------
-  - name: Mediocrity is worse than Failurew
+  - name: Mediocrity is worse than Failure
   - name: 比失败更可怕的是平庸
 
 # Short bio (displayed in user profile at end of posts)
