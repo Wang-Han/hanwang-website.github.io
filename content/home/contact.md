@@ -47,5 +47,5 @@ design:
 ---
 
 <body>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=600&t=tt&d=hTTCwL6j2b86VfyaWebPgMSN4J3Jg5gJFLiOUy8AcjE&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=wbZT_FThFnAoBIcMaX0-nPnzQqqWD6kehkRFgipO1RU&cl=ffffff&w=a"></script>
 </body>
