@@ -23,7 +23,7 @@ date_format: "Jan 2006"
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
     
-  - title: Senior Software Engineer - Simulation Team
+  - title: Senior Software Engineer - Simulator Core Team
     company: DiDi Research America
     company_url: 'https://www.didiglobal.com/science/intelligent-driving'
     company_logo: didi
