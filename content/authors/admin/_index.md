@@ -23,7 +23,7 @@ interests:
   - Differentiable Physics-based Simulation/Animation
   - Geometry and Rendering 
   - Data-driven Simulation
-  - Applications of Simulation
+  - Simulation Applications in Robotics/Autonomous Systems
 
 # Education to show in About widget
 education:
@@ -73,5 +73,5 @@ highlight_name: true
 Welcome to my personal website! I am a prospective Ph.D. applicant with a fervent passion for Computer Graphics, particularly in the realms of simulation/animation and rendering. Over the course of my nearly five years of industry experience, I've honed my skills in both engineering and research related to computer graphics and computer vision. I was ACM-ICPC (International Collegiate Programming Contest) [World Finalist](https://www.youtube.com/watch?v=2BBCW6bDhyU&t=297s) in [2016](https://drive.google.com/file/d/17pR2xrvc206Avb-9Y6KLRZuTfGP2Mt55/view?usp=sharing) and got gold medal in 40th ACM-ICPC Asia Regional Contest, 2015.
 
 
-My industry journey at Microsoft Research, Snap, and DiDi Research, spanning the fields of AR/VR and autonomous driving, has not only been instrumental in kindling my academic aspirations but has also motivated me to explore the depths of computer graphics. Rooted in a solid foundation of engineering, I've consistently applied my robust understanding of various algorithms to devise innovative solutions to complex challenges. It's this synthesis of practical experience and theoretical knowledge that has inspired my decision to pursue a Ph.D degree. I aim to further merge my hands-on insights with academic advancements in the field. If you resonate with my interests or wish to discuss potential collaborations, please don't hesitate to reach out via email or Wechat.
+My industry journey tech giants including at Microsoft Research, Snap, and DiDi Research, spanning the fields of AR/VR and autonomous driving, has not only been instrumental in kindling my academic aspirations but has also motivated me to explore the depths of computer graphics. Rooted in a solid foundation of engineering, I've consistently applied my robust understanding of various algorithms to devise innovative solutions to complex challenges. It's this synthesis of practical experience and theoretical knowledge that has inspired my decision to pursue a Ph.D degree. I aim to further merge my hands-on insights with academic advancements in the field. If you resonate with my interests or wish to discuss potential collaborations, please don't hesitate to reach out via email or Wechat.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_202310_Han.pdf" "newtab" >}}resumé{{< /staticref >}}.
