@@ -34,7 +34,7 @@ experience:
     
     
     Led another two engineers developing sensor simulation, which can generate synthetic scenarios' 3D point cloud data scanned by simulated LiDAR based on physics-based ray casting and PBR material rendering. "
-  - title: Software Engineer - Camera Platform Rendering Team
+  - title: Software Engineer - Camera Platform Team (Snap AR)
     company: Snap Inc.
     company_url: 'https://ar.snap.com/'
     company_logo: snapchat
@@ -57,7 +57,7 @@ experience:
 
     Supervised by Prof. Aggelos K. Katsaggelos
     "
-  - title: Software Engineer Intern - Camera Platform Rendering Team
+  - title: Software Engineer Intern - Camera Platform Team (Snap AR)
     company: Snap Inc.
     company_url: 'https://ar.snap.com/'
     company_logo: snapchat

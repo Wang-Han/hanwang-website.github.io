@@ -74,4 +74,4 @@ Welcome to my personal website! I am a prospective Ph.D. applicant with a ferven
 
 
 My industry journey tech giants including at Microsoft Research, Snap, and DiDi Research, spanning the fields of AR/VR and autonomous driving, has not only been instrumental in kindling my academic aspirations but has also motivated me to explore the depths of computer graphics. Rooted in a solid foundation of engineering, I've consistently applied my robust understanding of various algorithms to devise innovative solutions to complex challenges. It's this synthesis of practical experience and theoretical knowledge that has inspired my decision to pursue a Ph.D degree. I aim to further merge my hands-on insights with academic advancements in the field. If you resonate with my interests or wish to discuss potential collaborations, please don't hesitate to reach out via email or Wechat.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_202310_Han.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Han.pdf" "newtab" >}}resumé{{< /staticref >}}.
