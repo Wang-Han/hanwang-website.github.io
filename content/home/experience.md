@@ -30,10 +30,10 @@ experience:
     location: Mountain View, CA
     date_start: '2022-11-01'
     date_end: ''
-    description: "Worked on 3D simulation for autonomous driving. Research, design and implement algorithms in multiple domains including sensor simulation, agent behavior, and vehicle dynamics, in order to make a simulation of the ego car and agents more realistic. 
+    description: "Worked on 3D simulation and simulation intelligence for autonomous driving. Research, design and implement algorithms in multiple domains including sensor simulation, agent behavior, and vehicle dynamics, in order to make a simulation of the ego car and agents more realistic. 
     
     
-    Led another two engineers developing sensor simulation, which can generate synthetic scenarios' 3D point cloud data scanned by simulated LiDAR based on physics-based ray casting and PBR material rendering. "
+    Led another two engineers developing sensor simulation, which generates synthetic scenarios' 3D point cloud data scanned by simulated LiDAR based on physics-based ray casting and PBR material rendering. This project led to a 38% increase in mAP@iou_0.5 for our LiDAR detection model."
   - title: Software Engineer - Camera Platform Team (Snap AR)
     company: Snap Inc.
     company_url: 'https://ar.snap.com/'
@@ -41,10 +41,10 @@ experience:
     location: Santa Monica, CA
     date_start: '2019-07-22'
     date_end: '2022-11-01'
-    description: "Worked on implementing features [Cloth Simulation](https://docs.snap.com/lens-studio/references/templates/interactive/cloth-simulation), [Collider System (Physics System)](https://docs.snap.com/lens-studio/references/templates/interactive/physics) in [Lens Studio](https://ar.snap.com/lens-studio) and Lens Core (Snap AR's main rendering engine for mobile devices) collaborated with Snap Research.
+    description: "Worked on implementing graphics and shader-related features [Cloth Simulation](https://docs.snap.com/lens-studio/references/templates/interactive/cloth-simulation), [Collider System (Physics System)](https://docs.snap.com/lens-studio/references/templates/interactive/physics) in [Lens Studio](https://ar.snap.com/lens-studio) and Lens Core (Snap AR's main rendering engine for mobile devices) deeply collaborated with Snap Research.
     
     
-    Implemented Shader Analyzer, Texture Analyzer(internal tools) and refined small features in Lens Studio and Lens Core."
+    Engineering owner of Shader Analyzer, Texture Analyzer(internal tools) and refined small features in Lens Studio and Lens Core. Got Promoted after the first half year."
   - title: Research Assistant
     company: Northwestern University
     company_url: 'https://www.mccormick.northwestern.edu/computer-science/'
@@ -52,8 +52,7 @@ experience:
     location: Evanston, IL
     date_start: '2018-09-01'
     date_end: '2019-06-30'
-    description: "Worked on thesis: Action recognition in compressive sensing.
-    
+    description: "Master's thesis: Action recognition in compressive sensing.
 
     Supervised by Prof. Aggelos K. Katsaggelos
     "
@@ -64,7 +63,7 @@ experience:
     location: Venice, CA
     date_start: '2018-06-18'
     date_end: '2018-09-10'
-    description: Worked on integrating the first version of [hand tracking](https://docs.snap.com/lens-studio/references/templates/interactive/hand-gestures) feature into Snap AR (Lens Studio and Lens Core).
+    description: Worked on integrating the first version of [hand tracking](https://docs.snap.com/lens-studio/references/templates/interactive/hand-gestures) feature into Snap AR Engine, Lens Studio.
   - title: Research Intern
     company: Microsoft Research Asia
     company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'
