@@ -54,6 +54,7 @@ experience:
     date_end: '2019-06-30'
     description: "Master's thesis: Action recognition in compressive sensing.
 
+
     Supervised by Prof. Aggelos K. Katsaggelos
     "
   - title: Software Engineer Intern - Camera Platform Team (Snap AR)
