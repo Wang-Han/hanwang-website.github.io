@@ -44,7 +44,7 @@ experience:
     description: "Worked on implementing graphics and shader-related features [Cloth Simulation](https://docs.snap.com/lens-studio/references/templates/interactive/cloth-simulation), [Collider System (Physics System)](https://docs.snap.com/lens-studio/references/templates/interactive/physics) in [Lens Studio](https://ar.snap.com/lens-studio) and Lens Core (Snap AR's main rendering engine for mobile devices) deeply collaborated with [Snap Research](https://research.snap.com/).
     
     
-    Engineering owner of Shader Analyzer, Texture Analyzer(internal tools) and refined small features in Lens Studio and Lens Core. Got Promoted after the first half year."
+    Engineering owner of Shader Analyzer, Texture Analyzer (internal tools) and refined small features in Lens Studio and Lens Core. Got Promoted after the first half year."
   - title: Research Assistant
     company: Northwestern University
     company_url: 'https://www.mccormick.northwestern.edu/computer-science/'
