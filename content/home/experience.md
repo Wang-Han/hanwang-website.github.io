@@ -23,13 +23,21 @@ date_format: "Jan 2006"
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
     
+  - title: Software Engineer - Meta Reality Labs
+    company: Meta
+    company_url: 'https://about.meta.com/realitylabs/'
+    company_logo: meta
+    location: Burlingame, CA
+    date_start: '2024-03-11'
+    date_end: ''
+    description: "Meta Reality Labs - Codec Avatars"
   - title: Senior Software Engineer - Simulator Core Team
     company: DiDi Research America
     company_url: 'https://www.didiglobal.com/science/intelligent-driving'
     company_logo: didi
     location: Mountain View, CA
     date_start: '2022-11-01'
-    date_end: ''
+    date_end: '2024-03-08'
     description: "Worked on 3D simulation and simulation intelligence for autonomous driving. Research, design and implement algorithms in multiple domains including sensor simulation, agent behavior, and vehicle dynamics, in order to make a simulation of the ego car and agents more realistic. 
     
     
