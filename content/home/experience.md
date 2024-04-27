@@ -24,7 +24,7 @@ date_format: "Jan 2006"
 experience:
     
   - title: Software Engineer - Meta Reality Labs
-    company: Meta
+    company: Meta Platforms, Inc.
     company_url: 'https://about.meta.com/realitylabs/'
     company_logo: meta
     location: Burlingame, CA
